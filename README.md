@@ -17,9 +17,9 @@
 
 
 
-
+### 🛠 Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=csharp,dotnet,git,github,html,css" />
+<img src="https://skillicons.dev/icons?i=java,python,mysql,c,html,css,javascript,django,linux,git,github,cs,dotnet" />
 </p>
 <!--
 **aniketkpd/aniketkpd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
