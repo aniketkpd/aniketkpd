@@ -1,7 +1,7 @@
 ## Hi there 👋
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Backend+Developer;C%23+Learner;Building+Cool+Stuff)
 
-<img src="[https://giphy.com/gifs/SeekingBlueRecords-lofi-hiyo-seekingblue-RMwgs5kZqkRyhF24KK](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXNsNnpnNmt3OWd5Y2Z5dXpodjU5czA1NWxkbTlxbm9ybXFzM2R4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RMwgs5kZqkRyhF24KK/giphy.gif)" width="300" />
+<img src="[https://giphy.com/gifs/SeekingBlueRecords-lofi-hiyo-seekingblue-RMwgs5kZqkRyhF24KK]https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXNsNnpnNmt3OWd5Y2Z5dXpodjU5czA1NWxkbTlxbm9ybXFzM2R4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RMwgs5kZqkRyhF24KK/giphy.gif" width="300" />
 
 
 
