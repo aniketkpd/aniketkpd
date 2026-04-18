@@ -13,6 +13,14 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight)
 
+
+
+
+
+
+<p>
+  <img src="https://skillicons.dev/icons?i=csharp,dotnet,git,github,html,css" />
+</p>
 <!--
 **aniketkpd/aniketkpd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
