@@ -1,4 +1,5 @@
-# Hi 👋, I'm Aniket
+# Hi 👋, I'm Aniket ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Backend+Developer;C%23+Learner;Building+Cool+Stuff)<img width="865" height="46" alt="image" src="https://github.com/user-attachments/assets/7635990a-4ea5-4423-9a47-e763e69d4db0" />
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" />
