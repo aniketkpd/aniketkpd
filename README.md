@@ -1,37 +1,58 @@
-## Hi there 👋
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Backend+Developer;C%23+Learner;Building+Cool+Stuff)
+# Hi 👋, I'm Aniket
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXNsNnpnNmt3OWd5Y2Z5dXpodjU5czA1NWxkbTlxbm9ybXFzM2R4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RMwgs5kZqkRyhF24KK/giphy.gif" width="300" />
-
-
-
-
-
-
-### 📊 Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aniketkpd&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight)
-
-
-
-
-
-### 🛠 Tech Stack
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,mysql,c,html,css,javascript,django,linux,git,github,cs,dotnet" />
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" />
 </p>
-<!--
-**aniketkpd/aniketkpd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h3 align="center">💻 C# Learner | Backend Developer in Progress 🚀</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+* 💻 Learning **C# and .NET**
+* 🧠 Practicing **OOP, Collections, and Problem Solving**
+* 📚 Building small real-world projects
+* 🎯 Goal: Become a backend developer
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=csharp,dotnet,git,github,html,css" />
+</p>
+
+---
+
+## ⚡ Currently Working On
+
+* 🔹 C# Collections (List, Dictionary, HashSet)
+* 🔹 Console-based projects
+* 🔹 Writing cleaner and structured code
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 🎬 Fun Coding Vibes
+
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">GitHub</a>
+</p>
