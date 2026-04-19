@@ -26,7 +26,7 @@
 </p> -->
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,mysql,c,html,css,javascript,django,linux,git,github,csharp,dotnet" height="50" />
+  <img src="https://skillicons.dev/icons?i=java,python,mysql,c,html,css,javascript,django,linux,git,github,cs,dotnet" height="50" />
 </p>
 
 ---
