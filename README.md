@@ -22,7 +22,11 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,mysql,c,html,css,javascript,django,linux,git,github,cs,dotnet"<img width="876" height="23" alt="image" src="https://github.com/user-attachments/assets/4c8ed68e-44d9-4370-a995-2036bc8fff93" />
+<img src="https://skillicons.dev/icons?i=java,python,mysql,c,html,css"<img width="876" height="23" alt="image" src="https://github.com/user-attachments/assets/4c8ed68e-44d9-4370-a995-2036bc8fff93" />
+</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=javascript,django,linux,git,github,cs,dotnet"<img width="876" height="23" alt="image" src="https://github.com/user-attachments/assets/4c8ed68e-44d9-4370-a995-2036bc8fff93" />
 </p>
 
 ---
