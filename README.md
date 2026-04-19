@@ -60,5 +60,7 @@
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">GitHub</a>
+  <a href="https://github.com/aniketkpd">GitHub</a>
+  <a href="https://www.linkedin.com/in/aniket-kumar-prasad-962a501b0/">LinkedIn</a>
+  
 </p>
