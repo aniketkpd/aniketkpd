@@ -38,13 +38,13 @@
 * 🔹 Writing cleaner and structured code
 
 ---
+## 📈 Contribution Graph
 
+[![Aniket's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aniketkpd&theme=tokyo-night)](https://github.com/aniketkpd)
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aniketkpd&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-</p>
-<p align="center">
   <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aniketkpd&theme=tokyonight" />
   <img src="https://streak-stats.demolab.com/?user=aniketkpd&theme=tokyonight" />
 </p>
 
