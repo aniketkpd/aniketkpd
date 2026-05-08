@@ -40,9 +40,8 @@
 ---
 
 ## 📊 GitHub Stats
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aniketkpd&show_icons=true&theme=tokyonight)
 <p align="center">
-  ![Aniket's GitHub stats](https://github-readme-stats.vercel.app/api?username=aniketkpd&show_icons=true&theme=tokyonight)
   <br/>
   <img src="https://streak-stats.demolab.com/?user=aniketkpd&theme=tokyonight" />
 </p>
