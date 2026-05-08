@@ -40,7 +40,9 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aniketkpd&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aniketkpd&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+</p>
 <p align="center">
   <br/>
   <img src="https://streak-stats.demolab.com/?user=aniketkpd&theme=tokyonight" />
