@@ -12,10 +12,10 @@
 
 ## 🚀 About Me
 
-* 💻 Learning **C# and .NET**
+* 💻 Learning **C# and .NET and Angular**
 * 🧠 Practicing **OOP, Collections, and Problem Solving**
 * 📚 Building small real-world projects
-* 🎯 Goal: Become a full-stack developer
+* 🎯 Goal: Become a professional full-stack developer
 
 ---
 
