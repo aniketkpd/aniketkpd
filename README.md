@@ -44,6 +44,7 @@
   <br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aniketkpd&theme=tokyonight" />
   <!-- <img src="https://streak-stats.demolab.com/?user=aniketkpd&theme=tokyonight" /> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aniketkpd&theme=radical" />
 </p>
 
 
