@@ -39,7 +39,6 @@
 [![Aniket's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aniketkpd&theme=tokyo-night)](https://github.com/aniketkpd)
 ---
 ## 📊 GitHub Stats
-![Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=aniketkpd&theme=radical)
 <p align="center">
   <br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aniketkpd&theme=tokyonight" />
