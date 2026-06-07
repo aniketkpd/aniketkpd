@@ -6,7 +6,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" />
 </p>
 
-<h3 align="center">💻 C# Learner | Backend Developer in Progress 🚀</h3>
+<h3 align="center">💻 C# Learner | Full Developer 🚀</h3>
 
 ---
 
