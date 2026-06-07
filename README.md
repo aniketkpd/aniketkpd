@@ -1,6 +1,6 @@
 # Hi 👋, I'm Aniket 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=FullStack+Developer;C%23+Learner;Building+Cool+Stuff)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=FullStackDeveloper;C%23+Learner;Building+Cool+Stuff)
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" />
